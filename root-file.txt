@@ -1,5 +1,7 @@
 Hello, world!
 
+This is a change made on the master branch.
+
 thisIsAnExample - "Camel" case
 ThisIsAnExample - "Pascal" case
 this_is_an_example - "Snake" case
