@@ -1,1 +1,7 @@
 Hello, world!
+
+thisIsAnExample - "Camel" case
+ThisIsAnExample - "Pascal" case
+this_is_an_example - "Snake" case
+this-is-an-example - "Kebab" case
+THIS_IS_AN_EXAMPLE - "Screaming Snake" case
